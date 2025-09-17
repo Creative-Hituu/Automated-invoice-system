@@ -63,4 +63,9 @@
 
 ## 📬 Contact Me
 
+👤 **Hitanshu Prajapati**  
+📧 Email: hitanshubro1@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/hitanshu-prajapati-hi)  
+💻 [GitHub Profile](https://github.com/Creative-Hituu)
+
 
