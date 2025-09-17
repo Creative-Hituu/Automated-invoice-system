@@ -35,10 +35,8 @@ for file_name in os.listdir(folder_path):
                 "Total": total.group(1) if total else "Not found"
             })
 
-# Convert to DataFrame
 df = pd.DataFrame(data)
 
-# Save to Excel
 output_file = "invoices_summary.xlsx"
 df.to_excel(output_file, index=False)
 
