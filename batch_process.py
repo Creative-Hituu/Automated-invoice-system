@@ -4,7 +4,6 @@ import re
 import openpyxl
 from db_utils import save_invoice, init_db
 
-# invoices folder ka path
 folder_path = "invoices"
 
 def extract_invoice_data(pdf_path):
@@ -59,7 +58,7 @@ def process_invoices():
         wb.save("all_invoices.xlsx")
         print("✅ All invoices processed successfully into all_invoices.xlsx and saved to database")
 
-    return summary_data  # so GUI can directly use it
+    return summary_data  
 
 if __name__ == "__main__":
     process_invoices()
