@@ -3,7 +3,7 @@
 --> An end-to-end **Automated Invoice Management System** built with **Python, Tkinter, SQLite, and PDF processing tools**.  <br>
 --> This project automatically extracts invoice data from PDFs, stores them in a database, and provides options to **view, export, and manage invoices** with a user-friendly interface.  
 
----
+--- 
 
 ## 🚀 Features
 - 📂 Upload multiple invoices (PDFs) at once  
